@@ -14,7 +14,7 @@ These are my most commonly used Xcode plugins. All can be installed via Alcatraz
 * [VVDocumenter](https://github.com/onevcat/VVDocumenter-Xcode)
 * [XToDo](https://github.com/trawor/XToDo)
 * [ClangFormat](https://github.com/travisjeffery/ClangFormat-Xcode)
-* 
+
 
 Additional tools
 * [Chisel](https://github.com/facebook/chisel)
