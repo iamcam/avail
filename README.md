@@ -16,7 +16,7 @@ These are my most commonly used Xcode plugins. All can be installed via Alcatraz
 * [XToDo](https://github.com/trawor/XToDo)
 
 
-###SublimeText
+##SublimeText
 First, install Package Control: https://sublime.wbond.net
 There are a couple of SublimeText configuration files in the repo, but there are a few packages you should install:
 * Browser Refresh
