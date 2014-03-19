@@ -1,6 +1,5 @@
 #avail
 
-...just some configs I use for development. 
 
 
 ##Fonts
@@ -14,6 +13,12 @@ These are my most commonly used Xcode plugins. All can be installed via Alcatraz
 * [KSImageNamed](https://github.com/ksuther/KSImageNamed-Xcode)
 * [VVDocumenter](https://github.com/onevcat/VVDocumenter-Xcode)
 * [XToDo](https://github.com/trawor/XToDo)
+* [ClangFormat](https://github.com/travisjeffery/ClangFormat-Xcode)
+* 
+
+Additional tools
+* [Chisel](https://github.com/facebook/chisel)
+
 
 
 ##SublimeText
