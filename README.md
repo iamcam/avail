@@ -8,11 +8,12 @@ In most cases Inconsolata-g is my development font of choise. You can find it at
 
 
 ##Xcode
-* Alcatraz
-* Cocoapods
-* KSImageNamed
-* VVDocumenter
-* XToDo
+These are my most commonly used Xcode plugins. All can be installed via Alcatraz.
+* [Alcatraz](http://alcatraz.io)
+* [Cocoapods](http://cocoapods.org)
+* [KSImageNamed](https://github.com/ksuther/KSImageNamed-Xcode)
+* [VVDocumenter](https://github.com/onevcat/VVDocumenter-Xcode)
+* [XToDo](https://github.com/trawor/XToDo)
 
 
 ###SublimeText
