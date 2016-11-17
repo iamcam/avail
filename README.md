@@ -7,17 +7,8 @@ In most cases Inconsolata-g is my development font of choise. You can find it at
 
 
 ##Xcode
-These are my most commonly used Xcode plugins. All can be installed via Alcatraz.
-* [Alcatraz](http://alcatraz.io)
-* [Cocoapods](http://cocoapods.org)
-* [KSImageNamed](https://github.com/ksuther/KSImageNamed-Xcode)
-* [VVDocumenter](https://github.com/onevcat/VVDocumenter-Xcode)
-* [XToDo](https://github.com/trawor/XToDo)
-* [ClangFormat](https://github.com/travisjeffery/ClangFormat-Xcode)
 
-
-Additional tools
-* [Chisel](https://github.com/facebook/chisel)
+_Update: Xcode no longer supports Alcatraz. I will add to this list as new ones come along_
 
 
 
