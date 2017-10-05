@@ -1,6 +1,25 @@
 [
-{"keys": ["super+shift+o"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true}},
-{ "keys": ["super+shift+j"], "command": "reveal_in_side_bar"},
-{ "keys": ["super+shift+m"], "command": "markdown_preview", "args": {"target": "browser", "parser":"markdown"} }
-
+	{"keys": ["super+shift+o"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true}},
+	{ "keys": ["super+shift+j"], "command": "reveal_in_side_bar"},
+	{ "keys": ["super+shift+m"], "command": "markdown_preview", "args": {"target": "browser", "parser":"markdown"} },
+	{
+		"keys": ["super+enter"],
+		"command": "set_layout",
+		"args":
+		{
+			"cols": [0.0, 1.0],
+			"rows": [0.0, 1.0],
+			"cells": [[0, 0, 1, 1]]
+		}
+	},
+	{
+		"keys": ["super+alt+enter"],
+		"command": "set_layout",
+		"args":
+		{
+			"cols": [0.0, 0.5, 1.0],
+			"rows": [0.0, 1.0],
+			"cells": [[0, 0, 1, 1], [1, 0, 2, 1]]
+		}
+	}
 ]
